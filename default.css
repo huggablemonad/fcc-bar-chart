@@ -1,0 +1,35 @@
+
+h1
+{
+  text-align : center;
+}
+
+p
+{
+  text-align : center;
+}
+
+#bar-chart
+{
+  fill   : #76a7fa;
+  stroke : #4285f4;
+}
+
+#bar-chart:hover
+{
+  fill : #c80815;
+}
+
+#hint
+{
+  font-size : larger;
+  padding   : 5px 5px 5px 5px;
+}
+
+#hint-line
+{
+  stroke : #2f4f4f;
+}
+
+
+/* Generated with Clay, http://fvisser.nl/clay */
